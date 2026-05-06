@@ -52,9 +52,9 @@ Estudiar el impacto de la cuarentena sobre el volumen y la naturaleza de los rec
 
 ## Capturas del dashboard
 
-![Vista general 2019-2020](capturas/vista-general.png)
-![Análisis 2019](capturas/analisis-2019.png)
-![Análisis 2020](capturas/analisis-2020.png)
+![Vista general 2019-2020](capturas/vista_general.png)
+![Análisis 2019](capturas/analisis_2019.png)
+![Análisis 2020](capturas/analisis_2020.png)
 
 ---
 
