@@ -32,14 +32,14 @@ En julio de 2020 se registraron **7.437 denuncias**, contra **1.232 en julio de 
 
 ## Hipótesis
 
-El aislamiento (ASPO) pudo aumentar las compras a distancia y las demoras en las entregas, y con eso los reclamos por falta de entrega del bien. Es una hipótesis: el dashboard muestra **qué** cambió, no **por qué**.
+El patrón no muestra un aumento gradual desde el inicio del ASPO (20/03): marzo tiene 890 denuncias, abril y mayo no figuran, junio tiene 3 y julio 7.437. Con falta de entrega del bien pasa lo mismo (36 en marzo, 1 en junio y 1.516 en julio). Esto sugiere que el pico de julio puede deberse en parte a cómo se registraron las denuncias (por ejemplo, cargas acumuladas durante el aislamiento) y no solo a un aumento real de reclamos. Es una hipótesis: el dataset no permite confirmarlo.
 
 ---
 
 ## Próximos pasos
 
-- Ver en qué mes empieza a subir "falta de entrega del bien" y cruzarlo con la cronología del ASPO.
-- Revisar si el pico se repite en otros motivos o si es exclusivo de este.
+Buscar en la documentación del dataset si hay algún aviso sobre el registro entre abril y junio de 2020.
+Verificar si otros motivos muestran el mismo patrón (casi sin denuncias de abril a junio y pico en julio).
 
 ---
 
